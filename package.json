@@ -1,5 +1,5 @@
 {
-    "name": "@pulsar-sd/zone-mta",
+    "name": "@epost-service/zone-mta",
     "private": false,
     "version": "0.1.90",
     "description": "Tiny outbound MTA",
@@ -15,7 +15,7 @@
     "author": "Pulsar SD <info@pulsar-sd.com>",
     "license": "EUPL-1.1+",
     "dependencies": {
-        "@pulsar-sd/zone-mta": "file:",
+        "@epost-service/zone-mta": "file:",
         "@scarf/scarf": "^1.4.0",
         "base32.js": "0.1.0",
         "crc-32": "1.2.2",
@@ -58,15 +58,15 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/pulsar-sd/zone-mta.git"
+        "url": "git+https://github.com/epost-service/zone-mta.git"
     },
     "publishConfig": {
         "registry": "https://npm.pkg.github.com"
     },
     "bugs": {
-        "url": "https://github.com/pulsar-sd/zone-mta/issues"
+        "url": "https://github.com/epost-service/zone-mta/issues"
     },
-    "homepage": "https://github.com/pulsar-sd/zone-mta#readme",
+    "homepage": "https://github.com/epost-service/zone-mta#readme",
     "engines": {
         "node": ">=16.0.0"
     },
